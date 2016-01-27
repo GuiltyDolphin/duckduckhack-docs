@@ -1,5 +1,7 @@
 # Welcome to DuckDuckHack
 
+Version {{ book.version }}
+
 ![](http://docs.duckduckhack.com/assets/hack search engine.png)
 
 **Instant Answers use the Web's best data to solve searches in few or zero clicks. With your knowledge of the Web and a little bit of coding, DuckDuckGo can show the best possible result for the topics you care about most!**
